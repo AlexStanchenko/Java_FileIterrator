@@ -13,9 +13,4 @@ gen
 .idea/compiler.xml
 .idea/jarRepositories.xml
 .idea/misc.xml
-pom.xml
-seminars_FileIterator.iml
-src/
 target/
-test1.txt
-test2.txt
